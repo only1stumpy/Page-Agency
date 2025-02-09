@@ -1,4 +1,4 @@
-# Limk: https://only1stumpy.github.io/Page-Agency/
+# Link: https://only1stumpy.github.io/Page-Agency/
 ---
 ### **ENG**  
 **Page Agency** is my first project, where I used basic HTML and CSS to create a simple web page.  
